@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://cibe.host/Img/art.jpg" width="150" height="150" style="border-radius: 50%;">
   <h1 style="color: #FF3131;">Dutayo</h1>
   <p style="color: #FF6666;"><i>AI Engineer | Web Developer | Game Developer | Cyber Security Expert</i></p>
 </div>
